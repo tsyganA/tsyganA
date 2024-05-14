@@ -1,6 +1,6 @@
 ## Junior front-end developer
 
-br>📍 From Belarus, Minsk<br><br>
+📍 From Belarus, Minsk<br><br>
 
 ## 💬 Connect with me:
 ### Socials:
@@ -15,7 +15,7 @@ br>📍 From Belarus, Minsk<br><br>
 </p>
 
 ## 💻 Tech Stack:
-<div align="center">
+<div>
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572b6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="40"/>
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="40"/>
