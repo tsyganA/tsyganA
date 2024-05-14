@@ -3,20 +3,19 @@
 📍 From Belarus, Minsk<br><br>
 
 ## 💬 Connect with me:
+
 ### :mailbox: Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonazik)
-  <a href="https://discord.com/users/790478203616624651" target="_blank">
-    <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
-  </a>
-### Socials:
-<!-- <p>
-  <a href="https://discord.com/users/790478203616624651" target="_blank">
-    <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
-  </a> -->
+<a href="https://discord.com/users/790478203616624651" target="_blank">
+<img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
+</a>
+
+### 🤝 Social media:
+<p>
     <a href="https://www.linkedin.com/in/anton-tsyhan-007b8518a/" target="_blank">
     <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
   </a>
-<!-- </p> -->
+</p>
 
 ## 💻 Tech Stack:
 <div align="center">
