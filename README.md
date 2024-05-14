@@ -1,3 +1,5 @@
+# Hello, my name is Anton!
+
 ## Junior front-end developer
 
 📍 From Belarus, Minsk<br><br>
@@ -6,6 +8,7 @@
 
 ### :mailbox: Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonazik)
+[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sygan199@gmail.com)
 <a href="https://discord.com/users/790478203616624651" target="_blank">
 <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
 </a>
