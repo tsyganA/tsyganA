@@ -1,8 +1,8 @@
 # Hello, my name is Anton!
 
-## Junior front-end developer<br>
+## Junior front-end developer
 
-📍 From Belarus, Minsk<br>
+<br>📍 From Belarus, Minsk<br>
 
 ## 💬 Connect with me:
 
@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/anton-tsyhan-007b8518a/" target="_blank">
     <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
   </a>
-</p><br>
+</p>
 
 ## 💻 Tech Stack:
 <div align="center">
