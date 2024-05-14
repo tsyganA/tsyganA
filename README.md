@@ -3,19 +3,23 @@
 📍 From Belarus, Minsk<br><br>
 
 ## 💬 Connect with me:
-### Socials:
+### :mailbox: Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonazik)
-<p>
   <a href="https://discord.com/users/790478203616624651" target="_blank">
     <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
   </a>
+### Socials:
+<!-- <p>
+  <a href="https://discord.com/users/790478203616624651" target="_blank">
+    <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
+  </a> -->
     <a href="https://www.linkedin.com/in/anton-tsyhan-007b8518a/" target="_blank">
     <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
   </a>
-</p>
+<!-- </p> -->
 
 ## 💻 Tech Stack:
-<div>
+<div align="center">
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572b6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="40"/>
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="40"/>
