@@ -2,7 +2,7 @@
 
 ## Junior front-end developer
 
-<br>📍 From Belarus, Minsk<br>
+📍 From Belarus, Minsk<br>
 
 ## 💬 Connect with me:
 
@@ -11,7 +11,7 @@
 <a href="https://discord.com/users/790478203616624651" target="_blank">
 <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30"/>
 </a>
-[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sygan199@gmail.com)
+<br>[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sygan199@gmail.com)
 
 ### 🤝 Social media:
 <p>
