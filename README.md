@@ -31,9 +31,9 @@
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572b6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="40"/>
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="40"/>
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-FA005A.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
   <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="40"/>
-  <img alt="sql" src="https://img.shields.io/badge/SQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
-  <img alt="git" src="https://img.shields.io/badge/git-F7DF1E.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img alt="sql" src="https://img.shields.io/badge/SQL-FF880F.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
+  <img alt="git" src="https://img.shields.io/badge/git-21B352.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
 </div>
