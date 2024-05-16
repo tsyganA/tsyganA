@@ -9,13 +9,13 @@
 ### :mailbox: Contacts:
 <!-- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonazik) -->
 <a href="https://t.me/antonazik" target="_blank">
-<img alt="Tg" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" height="28"/>
+<img alt="Tg" title="Write me on Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" height="28"/>
 </a>
 <a href="https://discord.com/users/790478203616624651" target="_blank">
 <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="28"/>
 </a>
 <a href="mailto:tsygan199@gmail.com" target="_blank">
-<img alt="Email" src="https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white" height="28"/>
+<img alt="Email" title="Write me on Gmail" src="https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white" height="28"/>
 </a>
 <!-- <br>[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tsygan199@gmail.com) -->
 
@@ -33,7 +33,7 @@
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="40"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
   <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="40"/>
-  <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
-  <img alt="git" src="https://img.shields.io/badge/git-F7DF1E.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img alt="sql" src="https://img.shields.io/badge/SQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
+  <img alt="git" src="https://img.shields.io/badge/git-F7DF1E.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
 </div>
