@@ -1,23 +1,23 @@
-# Hello, my name is Anton!
+<h1>Hi 👋! My name is Anton and I'm a<br> Junior front-end developer</h1>
 
-## Junior front-end developer
+📍 From Belarus, Minsk
 
-📍 From Belarus, Minsk<br>
+<a href="https://tsygana.github.io/frontend-cv/" target="_blank">
+  <img alt="CV" src="https://img.shields.io/badge/CV_Anton_Tsyhan-blue?style=for-the-badge&logo=CV&labelColor=white&color=%23752326" />
+</a>
 
 ## 💬 Connect with me:
 
 ### :mailbox: Contacts:
-<!-- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/antonazik) -->
 <a href="https://t.me/antonazik" target="_blank">
-<img alt="Tg" title="Write me on Telegram" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" height="28"/>
+<img alt="Tg" title="Write me on Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" height="28"/>
 </a>
 <a href="https://discord.com/users/790478203616624651" target="_blank">
 <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="28"/>
 </a>
 <a href="mailto:tsygan199@gmail.com" target="_blank">
-<img alt="Email" title="Write me on Gmail" src="https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white" height="28"/>
+<img alt="Email" title="Write me on Gmail" src="https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white" height="28"/>tsygan199@gmail.com
 </a>
-<!-- <br>[![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tsygan199@gmail.com) -->
 
 ### 🤝 Social media:
 <p>
@@ -36,4 +36,6 @@
   <img alt="sql" src="https://img.shields.io/badge/SQL-FF880F.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
   <img alt="git" src="https://img.shields.io/badge/git-21B352.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" height="40"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
 </div>
