@@ -16,7 +16,7 @@
 <img alt="Discord" title="Write me on Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="28"/>
 </a>
 <a href="mailto:tsygan199@gmail.com" target="_blank">
-<img alt="Email" title="Write me on Gmail" src="https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white" height="28"/>tsygan199@gmail.com
+<img alt="Email" title="Write me on Gmail" src="https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white" height="28"/> tsygan199@gmail.com
 </a>
 
 ### 🤝 Social media:
